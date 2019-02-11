@@ -1,5 +1,5 @@
 body {
-  background: #23bb63;
+  background: #23BB63;  
 }
 
 #title {
@@ -23,16 +23,14 @@ body {
 }
 
 .btn {
-  background-color: #23bb63;
+  background-color: #23BB63;
 }
 
 a {
   color: lightgrey;
 }
 
-a:hover,
-a:active,
-a:focus {
+a:hover, a:active, a:focus {
   color: white;
 }
 
@@ -47,7 +45,7 @@ a:focus {
   left: 0;
   right: 0;
   color: white;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0,0,0,0.3);
 }
 #footer p {
   margin: 0;
